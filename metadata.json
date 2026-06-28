@@ -1,0 +1,6 @@
+{
+  "name": "Forex Journal",
+  "description": "A premium trading journal for forex and crypto traders with calendar win/loss tracking, rule tables, win rate analytics, interactive balance charts, and a personalized AI trading assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
